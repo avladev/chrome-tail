@@ -12,4 +12,4 @@ Drag and drop a file in Chrome and in this tab press the extension button this w
 
 Happy coding :)
 
-[![Pledgie](http://pledgie.com/campaigns/17787.png)]
+http://pledgie.com/campaigns/19136
