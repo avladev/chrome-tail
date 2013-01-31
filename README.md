@@ -12,4 +12,4 @@ Drag and drop a file in Chrome and in this tab press the extension button this w
 
 Happy coding :)
 
-http://pledgie.com/campaigns/19136
+<a href='http://www.pledgie.com/campaigns/19136'><img alt='Click here to lend your support to: Chrome Tail and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/19136.png?skin_name=chrome' border='0' /></a>
