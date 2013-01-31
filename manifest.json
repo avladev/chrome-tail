@@ -1,0 +1,18 @@
+{
+	"name": "Tail",
+	"version": "0.1",
+	"description": "Traces all new lines from a file",
+	"manifest_version": 2,
+	"permissions": ["tabs","idle","file://*/*","http://*/*", "https://*/*"],
+
+    "background": {
+		"scripts": ["tail.js"]
+	},
+
+    "browser_action": {
+        "default_icon": "images/icon-inactive.png",
+        "default_title": "Tail"
+    },
+
+    "offline_enabled": true
+}
